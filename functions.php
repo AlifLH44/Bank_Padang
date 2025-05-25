@@ -1,7 +1,7 @@
 <?php
 $server = "localhost:3306"; // Ganti dengan nama host database Anda
 $username = "root"; // Ganti dengan nama pengguna database Anda
-$password = "alif"; // Ganti dengan kata sandi database Anda
+$password = ""; // Ganti dengan kata sandi database Anda
 $database = "it_banking"; // Ganti dengan nama database Anda
 
 // Buat koneksi ke database
